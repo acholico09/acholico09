@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to @acholico09's World! 👾</h1>
+<h1 align="center">👋 Welcome to @acholico09 World! 👾</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" alt="Coding GIF">
